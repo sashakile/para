@@ -1,0 +1,16 @@
+# Configurando bluefin
+date: 2024-09-25
+
+Setups por ahora:
+
+Siguendo la guia de configuracion de [[https://docs.projectbluefin.io/bluefin-dx][bluefin-dx]], instale los paquetes de bluefin-cli
+
+Extensiones de GNOME:
+
+Agregue [[https://github.com/paperwm/paperwm][PaperWM]] para tener tiling windows. Por ahora no me agrada demasiado.
+Agregue Quake Terminal
+
+
+
+
+
