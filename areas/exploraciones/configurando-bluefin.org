@@ -10,7 +10,16 @@ Extensiones de GNOME:
 Agregue [[https://github.com/paperwm/paperwm][PaperWM]] para tener tiling windows. Por ahora no me agrada demasiado.
 Agregue Quake Terminal
 
+Desactive un par de extensiones que venian por default como Dash to Dock y cosas de los menues
+
+De tools configuré:
+
+- zk con los aliases de gl/sashakile/dotfiles
+- spacemacs
 
 
+Hay un par de cosas que tengo que terminar de aceitar,
 
+- agregar bloques de includeIf en la config de git, por algún motivo no los toma.
+  Había que poner un "/" al final del path https://stackoverflow.com/a/76721509
 
